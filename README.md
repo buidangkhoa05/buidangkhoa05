@@ -17,20 +17,19 @@
 <p align="left"> 
   <p><img align="left" src="https://skillicons.dev/icons?i=cs,java,js,html,css,c&theme=dark" alt="buidangkhoa05" /></p>
 </p>
-<br/>
+<br/><br/>
 
 <h3>Techs</h3>
 <p align="left">
   <p><img align="left" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="buidangkhoa05" /></p>
 </p>
-<br/>
+<br/><br/>
 
 <h3>Database</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="postgresql" width="40" height="40"/>
 </p>
-<br/>
 
 <h3>Dev Ops</h3>
 <p align="left"> 
@@ -44,10 +43,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
 </p>
+
 <h3>Others</h3>
 <p align="left"> 
   <p><img align="left" src="https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark" alt="buidangkhoa05" /></p>
 </p>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en&layout=compact" alt="buidangkhoa05" /></p>
 
