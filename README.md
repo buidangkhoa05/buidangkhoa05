@@ -18,7 +18,7 @@
 </p>
 <br/><br/>
 
-<h3>Framework</h3>
+<h3>Tech</h3>
 <p align="left">
   <p><img align="left" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="buidangkhoa05" /></p>
 </p>
