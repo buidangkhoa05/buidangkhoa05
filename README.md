@@ -15,11 +15,11 @@
 
 <h3> Language</h3>
 <p align="left"> 
-  [![Language](https://skillicons.dev/icons?i=cs,java,js,html,css,c&theme=dark)]
+  <p><img align="left" src="https://skillicons.dev/icons?i=cs,java,js,html,css,c&theme=dark" alt="buidangkhoa05" /></p>
 </p>
 <h3>Techs</h3>
 <p align="left">
-  [![Tech](https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark)]
+  <p><img align="left" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="buidangkhoa05" /></p>
 </p>
 <h3>Database</h3>
 <p align="left"> 
@@ -41,7 +41,7 @@
 </p>
 <h3>Others</h3>
 <p align="left"> 
-  [![Other](https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark)]
+  <p><img align="left" src="https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark" alt="buidangkhoa05" /></p>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en&layout=compact" alt="buidangkhoa05" /></p>
