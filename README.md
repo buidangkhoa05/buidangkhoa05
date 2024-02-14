@@ -49,6 +49,8 @@
 </p>
 <br/><br/><br/>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dangkhoabui05?theme=nord,unicorn&font=Montserrat&ext=heatmap)](https://leetcode.com/dangkhoabui05/) 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en&layout=compact" alt="buidangkhoa05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en" alt="buidangkhoa05" /></p>
