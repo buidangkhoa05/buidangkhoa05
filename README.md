@@ -36,9 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
   </a>
   <a> 
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="40" height="40" />
-  </a>
-  <a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
 </p>
@@ -46,6 +43,9 @@
 <h3>Others</h3>
 <p align="left"> 
   <p><img align="left" src="https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark" alt="buidangkhoa05" /></p>
+   <a> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="40" height="40" />
+  </a>
 </p>
 <br/><br/><br/>
 
