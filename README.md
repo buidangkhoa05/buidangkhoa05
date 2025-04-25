@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
 
-- 📚 I'm a senior studying Software Engineering at FPT University
-- 📫 Reach me at dangkhoa.bui.dev@gmail.com
+- 📚 I'm a Software Engineer at FPT Software
+- 📫 Reach me at buidangkhoa05@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
