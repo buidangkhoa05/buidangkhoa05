@@ -2,7 +2,7 @@
 
 <img src="./my_background.png">
 
-- 📚 I'm a Software Engineer at [Akkuro by Topic](https://akkuro.com/composable-banking)
+- 📚 I'm a Software Engineer at [Akkuro by Topicus](https://akkuro.com/composable-banking)
 - 📫 Reach me at buidangkhoa05@gmail.com
 
 ### Connect with me:
