@@ -1,58 +1,54 @@
-<h1 align="center">Hi 👋, I'm Khoa</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Khoa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-- 📚 I'm a Software Engineer at FPT Software
+<img src="./my_background.png">
+
+- 📚 I'm a Software Engineer at [Akkuro by Topic](https://akkuro.com/composable-banking)
 - 📫 Reach me at buidangkhoa05@gmail.com
 
+### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/khoabui05/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="30" width="30" /></a>
-<a href="https://fb.com/khoabui05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
-<br/>
-<h2 align="left">🛠️ Tech Stack</h2>
+<a href="https://www.linkedin.com/in/khoabui05/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://fb.com/khoabui05/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30"/></a>
 
-<h3> Language</h3>
-<p align="left"> 
-  <p><img align="left" src="https://skillicons.dev/icons?i=cs,go,ts,js,html,css&theme=dark" alt="buidangkhoa05" /></p>
-</p>
-<br/><br/>
+---
 
-<h3>Framework</h3>
-<p align="left">
-  <p><img align="left" src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="buidangkhoa05" /></p>
-</p>
-<br/><br/>
+## 🛠️ Tech Stack
 
-<h3>Database</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="postgresql" width="40" height="40"/>
-</p>
+### Language
 
-<h3>Dev Ops</h3>
-<p align="left"> 
-  <a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  </a>
-  <a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=cs,go,ts,js,html,css&theme=dark" alt="Languages"/>
 
-<h3>Others</h3>
-<p align="left"> 
-  <p><img align="left" src="https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark" alt="buidangkhoa05" /></p>
-   <a> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="40" height="40" />
-  </a>
-</p>
-<br/><br/><br/>
+### Framework
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dangkhoabui05?theme=nord,unicorn&font=Montserrat&ext=heatmap)](https://leetcode.com/dangkhoabui05/) 
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt="Frameworks"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en&layout=compact" alt="buidangkhoa05" /></p>
+### Database
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buidangkhoa05&show_icons=true&theme=dracula&locale=en" alt="buidangkhoa05" /></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buidangkhoa05&theme=dark" alt="buidangkhoa05" /></p>
+### DevOps
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+
+### Others
+
+<img src="https://skillicons.dev/icons?i=git,redis,firebase,kafka&perline=5&theme=dark" alt="Others"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK" width="40" height="40"/>
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buidangkhoa05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=buidangkhoa05&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dangkhoabui05?theme=nord,unicorn&font=Montserrat&ext=heatmap)](https://leetcode.com/dangkhoabui05/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
